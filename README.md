@@ -49,6 +49,13 @@ npx skills add chihqiang/agents --skill async-python-patterns
 |------------|------|
 | [react-state-management](./plugins/frontend-development/skills/react-state-management/SKILL.md) | React 状态管理，包括 Redux Toolkit、Zustand、Jotai |
 | [tailwind-design-system](./plugins/frontend-development/skills/tailwind-design-system/SKILL.md) | Tailwind CSS v4 设计系统和组件库构建 |
+| [vue](./plugins/frontend-development/skills/vue/SKILL.md) | Vue 3 Composition API、script setup、响应式系统 |
+| [vue-best-practices](./plugins/frontend-development/skills/vue-best-practices/SKILL.md) | Vue.js 最佳实践工作流 |
+| [vue-router-best-practices](./plugins/frontend-development/skills/vue-router-best-practices/SKILL.md) | Vue Router 4 模式和导航守卫 |
+| [vue-testing-best-practices](./plugins/frontend-development/skills/vue-testing-best-practices/SKILL.md) | Vue.js 测试最佳实践 |
+| [pinia](./plugins/frontend-development/skills/pinia/SKILL.md) | Pinia Vue 状态管理库 |
+| [pnpm](./plugins/frontend-development/skills/pnpm/SKILL.md) | Node.js 包管理器 |
+| [tsdown](./plugins/frontend-development/skills/tsdown/SKILL.md) | TypeScript/JavaScript 库打包工具 |
 
 ## 使用方式
 
@@ -59,8 +66,9 @@ npx skills add chihqiang/agents --skill async-python-patterns
 ## 感谢
 
 - [wshobson/agents](https://github.com/wshobson/agents)
-
 - [vercel-labs/skills](https://github.com/vercel-labs/skills)
+- [rolldown/tsdown](https://github.com/rolldown/tsdown)
+- [vuejs-ai/skills](https://github.com/vuejs-ai/skills)
 
 ## 许可证
 
