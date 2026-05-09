@@ -35,6 +35,21 @@ npx skills add chihqiang/agents --skill async-python-patterns
 | [python-testing-patterns](./plugins/python-development/skills/python-testing-patterns/SKILL.md) | 测试策略，包括 pytest、fixtures、mock 和 TDD |
 | [python-type-safety](./plugins/python-development/skills/python-type-safety/SKILL.md) | 类型安全，包括类型注解、类型检查工具 |
 
+### Shell Scripting
+
+| skill-name | 描述 |
+|------------|------|
+| [bash-defensive-patterns](./plugins/shell-scripting/skills/bash-defensive-patterns/SKILL.md) | Bash 防御性编程技术，用于生产级脚本 |
+| [shellcheck-configuration](./plugins/shell-scripting/skills/shellcheck-configuration/SKILL.md) | ShellCheck 静态分析配置和使用 |
+| [bats-testing-patterns](./plugins/shell-scripting/skills/bats-testing-patterns/SKILL.md) | Bats（Bash Automated Testing System）测试模式 |
+
+### Frontend Development
+
+| skill-name | 描述 |
+|------------|------|
+| [react-state-management](./plugins/frontend-development/skills/react-state-management/SKILL.md) | React 状态管理，包括 Redux Toolkit、Zustand、Jotai |
+| [tailwind-design-system](./plugins/frontend-development/skills/tailwind-design-system/SKILL.md) | Tailwind CSS v4 设计系统和组件库构建 |
+
 ## 使用方式
 
 1. **浏览技能文档**：直接查看对应技能的 `SKILL.md` 文件
