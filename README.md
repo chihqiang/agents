@@ -7,8 +7,11 @@
 使用 `npx skills add` 命令安装技能：
 
 ```bash
-# 全局安装所有技能
+# 全局所有平台所有技能
 npx skills add chihqiang/agents -g --all
+
+# 安装指定平台所有技能
+npx skills add chihqiang/agents --skill '*' -a opencode
 
 # 安装指定技能（--skill 参数使用技能目录名 {skill-name}）
 npx skills add chihqiang/agents --skill async-python-patterns
