@@ -56,6 +56,8 @@ npx skills add chihqiang/agents --skill async-python-patterns
 | [pinia](./plugins/frontend-development/skills/pinia/SKILL.md) | Pinia Vue 状态管理库 |
 | [pnpm](./plugins/frontend-development/skills/pnpm/SKILL.md) | Node.js 包管理器 |
 | [tsdown](./plugins/frontend-development/skills/tsdown/SKILL.md) | TypeScript/JavaScript 库打包工具 |
+| [tauri](./plugins/frontend-development/skills/tauri/SKILL.md) | Tauri 框架，用于构建跨平台应用 |
+
 
 ## 使用方式
 
@@ -69,6 +71,7 @@ npx skills add chihqiang/agents --skill async-python-patterns
 - [vercel-labs/skills](https://github.com/vercel-labs/skills)
 - [rolldown/tsdown](https://github.com/rolldown/tsdown)
 - [vuejs-ai/skills](https://github.com/vuejs-ai/skills)
+- [martinholovsky/claude-skills-generator](https://github.com/martinholovsky/claude-skills-generator)
 
 ## 许可证
 
