@@ -58,6 +58,11 @@ npx skills add chihqiang/agents --skill async-python-patterns
 | [tsdown](./plugins/frontend-development/skills/tsdown/SKILL.md) | TypeScript/JavaScript 库打包工具 |
 | [tauri](./plugins/frontend-development/skills/tauri/SKILL.md) | Tauri 框架，用于构建跨平台应用 |
 
+### Rust Development
+
+| skill-name | 描述 |
+|------------|------|
+| [rust](./plugins/rust-development/skills/rust/SKILL.md) | Rust 最佳实践工作流 |
 
 ## 使用方式
 
