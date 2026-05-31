@@ -57,6 +57,7 @@ npx skills add chihqiang/agents --skill async-python-patterns
 | [pnpm](./plugins/frontend-development/skills/pnpm/SKILL.md) | Node.js 包管理器 |
 | [tsdown](./plugins/frontend-development/skills/tsdown/SKILL.md) | TypeScript/JavaScript 库打包工具 |
 | [tauri](./plugins/frontend-development/skills/tauri/SKILL.md) | Tauri 框架，用于构建跨平台应用 |
+| [tailwindcss](./plugins/frontend-development/skills/tailwindcss/SKILL.md) | Tailwind CSS v4 框架，用于快速构建响应式 UI |
 
 ### Rust Development
 
